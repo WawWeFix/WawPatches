@@ -48,4 +48,21 @@ Because I don't want these patches to be stuck in emulators, so I'm putting them
       <img src="./N64/Fighting%20Force%2064%20(USA)%20-%20NFFE/Preview/Widescreen.png" height="240">
     </td>
   </tr>
+    </tr>
+    </tr>
+    <tr>
+    <th colspan="2" align="center">Avatar: The Last Airbender (Wii)</th>
+  </tr>
+  <tr>
+    <th align="center">Original (4:3)</th>
+    <th align="center">Widescreen (16:9)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./Wii/Avatar%20-%20The%20Last%20Airbender%20(USA)%20-%20RLVE78/Preview/Original.png" height="240">
+    </td>
+    <td align="center">
+      <img src="./Wii/Avatar%20-%20The%20Last%20Airbender%20(USA)%20-%20RLVE78/Preview/Widescreen.png" height="240">
+    </td>
+  </tr>
 </table>
