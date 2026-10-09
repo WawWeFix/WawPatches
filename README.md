@@ -32,4 +32,20 @@ Because I don't want these patches to be stuck in emulators, so I'm putting them
       <img src="./PS4/Final%20Fantasy%20XV%20Episode%20Duscae%20-%20CUSA01709/Preview/4K.jpg" height="240">
     </td>
   </tr>
+    </tr>
+    <tr>
+    <th colspan="2" align="center">Fighting Force 64 (N64)</th>
+  </tr>
+  <tr>
+    <th align="center">Original (4:3)</th>
+    <th align="center">Widescreen (16:9)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./N64/Fighting%20Force%2064%20(USA)%20-%20NFFE/Preview/Original.png" height="240">
+    </td>
+    <td align="center">
+      <img src="./N64/Fighting%20Force%2064%20(USA)%20-%20NFFE/Preview/Widescreen.png" height="240">
+    </td>
+  </tr>
 </table>
